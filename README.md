@@ -124,7 +124,6 @@ Simulation parameters can be adjusted in the Inspector on the **Simulation Setti
 
 ## 📚 References
 
-- Parker, L.E. — *[ALLIANCE: An Architecture for Fault-Tolerant Multi-Robot Cooperation](https://ieeexplore.ieee.org/document/491920)* (IEEE Transactions on Robotics, 1998)
 - Unity DOTS documentation — [docs.unity3d.com/Packages/com.unity.entities](https://docs.unity3d.com/Packages/com.unity.entities@latest)
 - Unity Burst Compiler — [docs.unity3d.com/Packages/com.unity.burst](https://docs.unity3d.com/Packages/com.unity.burst@latest)
 
